@@ -1,0 +1,16 @@
+{
+    "name": "hari-eportfolio-backend",
+    "version": "1.0.0",
+    "description": "Backend for Hari Hara Sai Kishan's E-Portfolio",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^7.6.3",
+        "cors": "^2.8.5"
+    },
+    "author": "Hari Hara Sai Kishan",
+    "license": "ISC"
+}
